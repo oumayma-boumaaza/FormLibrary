@@ -185,7 +185,7 @@ namespace FormLibrary
 
         private void Modification()
         {
-            operation = "Modification";
+            operation = "modification";
             comboBox1.Enabled = true;
             New.Enabled = false;
             Edit.Enabled = false;
